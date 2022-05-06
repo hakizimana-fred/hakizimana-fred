@@ -24,7 +24,6 @@
 <br />
 
 
-[website]: https://hakizimana.com
 [instagram]: https://instagram.com/hakifred
 [twitter]: https://twitter.com/hakifred201
 [linkedin]: https://www.linkedin.com/in/hakizimana-frederick-00965210b/
