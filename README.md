@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## A software developer from Rwanda who's spent most of his time in Uganda.
+## A software developer who loves to travel.
 - 🔭 My parents don't understand what I do!  
 - 🌱 Fascinated with the Blockchain and 3D technologies 🤣
 - 🥅 Goals: Learn and contribute more to the society
