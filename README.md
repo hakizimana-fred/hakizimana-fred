@@ -9,6 +9,13 @@
 - 🥅 Goals: Learn and contribute more to the society
 - ⚡ Fun fact: I enjoy my sleep!
 
+- [x] Solidity
+- [x] TypeScript/Javascript
+- [x] Rust
+- [x] Python
+- [x] Elixir
+
+
 ### Connect with me:
 
 
