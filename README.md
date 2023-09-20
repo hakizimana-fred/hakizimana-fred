@@ -8,7 +8,7 @@
 - 🌱 Fascinated with the Blockchain and 3D technologies 🤣
 - 🥅 Goals: Learn and contribute more to the society
 - ⚡ Fun fact: I enjoy my sleep!
-## Skills.
+## Skills
 - [x] Solidity
 - [x] TypeScript/Javascript
 - [x] Rust
